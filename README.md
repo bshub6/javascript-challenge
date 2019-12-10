@@ -8,7 +8,7 @@ UFO-sightings-JavaScript-and-DOM-Manipulation
 Level 1: Automatic Table and Date Search Created a basic HTML web page. (Required)
 
 Used the ufo dataset provided in the form of a JavaScript object, wrote code that appends a table to the web page and then adds new rows of data for each UFO sighting.
-Made sure, columns for date/time, city, state, country, shape, and comment at the very least. Added an input tag to the HTML document and wrote JavaScript code that will search through the date/time column to find rows that match user input. ONLY LEVEL 1 WAS DONE!
+Made sure, columns for date/time, city, state, country, shape, and comment at the very least. Added an input tag to the HTML document and wrote JavaScript code that will search through the date/time column to find rows that match user input.!
 
 
 Level 2: Multiple Search Categories Completed all of Level 1 criteria. (Optional)
