@@ -13,5 +13,5 @@ Made sure, columns for date/time, city, state, country, shape, and comment at th
 
 Level 2: Multiple Search Categories Completed all of Level 1 criteria. (Optional)
 
-Used multiple input tags, wrote JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
-date/time city state country Level 3: Append new UFO Sightings Wrote a code that will allow the users to append new ufo sightings based on the criteria below to the existing data. date/time city state country shape comment
+Using multiple input tags, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
+date/time city state country Level 3: Append new UFO Sightings Write a code that will allow the users to append new ufo sightings based on the criteria below to the existing data. date/time city state country shape comment
